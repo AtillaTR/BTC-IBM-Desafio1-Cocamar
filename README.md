@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img alt="resultado" src="Resultado_1.jfif" width="100%">
+  <img alt="resultado" src="Resultado_1.jfif" width="30%">
 </p>
 
 ## :rocket: Tecnologias
