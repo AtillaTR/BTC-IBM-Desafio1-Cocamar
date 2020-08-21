@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img  title="#logo" src=".github/logo-btc.png" width="200px" />
+    <img  title="#logo" src="logo-btc.png" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -18,16 +18,13 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-integração">Integração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ 
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="BeTheHero" src=".github/Aplicacao.png" width="100%">
-</p>
+
 
 ## :rocket: Tecnologias
 
